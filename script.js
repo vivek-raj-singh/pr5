@@ -44,7 +44,7 @@ for(var i = 0; i<navlinks.length; i++){
 }
 
 jQuery(document).ready(function(){
-    $('.home-content').ripples({
+    $('.home').ripples({
 dropRadius:20,
 perturbance: 0.03,
 
